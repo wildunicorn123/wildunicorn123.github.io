@@ -1,0 +1,34 @@
+{
+    "testimonials":[
+        {
+            "id":"1",
+            "name":"Ayesha",
+            "desc":"Amber is dedicated and very passionate about her work. Working together makes me motivated to go above and beyond to reach our goals and of course, having fun while doing so."
+        },
+        {
+            "id":"2",
+            "name":"Inam",
+            "desc":"Amber-Kaye is very conscientious and generous. She goes to great lengths to fully understand project requirements. This allows her to produce an effective product in a short timeframe.” Top qualities: Expert, Good Value, On Time"
+        },
+        {
+            "id":"3",
+            "name":"Ethan O ",
+            "desc":"Amber is smart and likes to know how things work and is goal-driven. She calls me 'bestie' and has no problem asking for help when she needs it."
+        },
+        {
+            "id":"4",
+            "name":"Lisa",
+            "desc":"Amber is calm and patient. She takes pride in her work  and is very passionate. She is goal-driven and she is a hard worker. She is vibey and gets along with everyone . She is kind and its been a great experience with Amber."
+        },
+        {
+            "id":"5",
+            "name":"John-Bruce",
+            "desc":"I highly recommend Amber for any web development projects. Their exceptional skills, dedication, and eagerness to learn are truly impressive. She have a eye for design, a deep understanding of programming languages, and an ability to solve complex problems efficiently."
+        },
+        {
+            "id":"6",
+            "name":"Abdoel Maaliek",
+            "desc":"Amber: She is in general just a good independant person. She is supportive and vibrant in many ways. She will solve problems on her own and hardly give up. She just blends in and can communicate with every one. She is the type of person to help where she can."
+        }
+    ]
+}
