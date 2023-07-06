@@ -1,0 +1,40 @@
+{
+    "projects":[
+        {
+            "id":"1",
+            "name":"First html ex.",
+            "desc":"",
+            "image_url":""
+        },
+        {
+            "id":"2",
+            "name":"First Portfolio",
+            "desc":"",
+            "image_url":""
+        },
+        {
+            "id":"3",
+            "name":"Calculator",
+            "desc":"",
+            "image_url":""
+        },
+        {
+            "id":"4",
+            "name":"Fake netflix",
+            "desc":"",
+            "image_url":""
+        },
+        {
+            "id":"5",
+            "name":"Temperature converter",
+            "desc":"",
+            "image_url":""
+        },
+        {
+            "id":"6",
+            "name":"E-commerce",
+            "desc":"",
+            "image_url":""
+        }
+    ]
+}
