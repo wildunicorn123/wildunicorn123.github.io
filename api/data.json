@@ -1,5 +1,82 @@
 {
-    "testimonials":[
+    "skills": [
+            {
+                "id":"1",
+                "desc":"A Team-player"
+            },
+            {
+                "id":"2",
+                "desc":"Great Leadership skills"
+            },
+            {
+                "id":"3",
+                "desc":"Good Organizational skills"
+            },
+            {
+                "id":"4",
+                "desc":"Good Communication skills"
+            },
+            {
+                "id":"5",
+                "desc":"Have an Ability to work alone"
+            }
+    ],
+    "education": [
+    {
+        "id":"1",
+        "name":"Completed High School",
+        "desc":"2019"
+    },
+    {
+        "id":"2",
+        "name":"First Year UWC,BA",
+        "desc":"2020"
+    },
+    {
+        "id":"1",
+        "name":"Currently with Life Choices Coding Academy",
+        "desc":"2023"
+    }
+    ],
+    "projects": [
+        {
+            "id":"1",
+            "name":"Group html ex.(the About)",
+            "desc":"Netlify: https://vocal-dango-f219dd.netlify.app/ Github repo: https://github.com/Li2a26/Group-Exercise.git",
+            "image_url":"https://i.postimg.cc/2y7vc9xW/Screenshot-2023-07-06-101320.png"
+        },
+        {
+            "id":"2",
+            "name":"First Portfolio",
+            "desc":"Netlify: https://comfy-sunburst-089d86.netlify.app/  Github repo:https://github.com/wildunicorn123/StudentProfile.git",
+            "image_url":"https://i.postimg.cc/8Prgv8ts/Screenshot-2023-07-06-101600.png"
+        },
+        {
+            "id":"3",
+            "name":"Calculator",
+            "desc":"Netlify: https://nimble-dasik-0d67f9.netlify.app/ Github repo:https://github.com/wildunicorn123/incomplete1.git",
+            "image_url":"https://i.postimg.cc/XN1yJ5z4/Screenshot-2023-07-06-102039.png"
+        },
+        {
+            "id":"4",
+            "name":"Fake netflix",
+            "desc":"Netlify:https://animated-parfait-324aad.netlify.app Github repo: https://github.com/wildunicorn123/netflikie.git",
+            "image_url":"https://i.postimg.cc/SRcPR4fM/Screenshot-2023-07-06-094804.png"
+        },
+        {
+            "id":"5",
+            "name":"Temperature converter",
+            "desc":"Netlify:https://eloquent-biscotti-4747f5.netlify.app   Github repo:https://github.com/wildunicorn123/tempUnicorn.git",
+            "image_url":"https://i.postimg.cc/52mMpBvC/Screenshot-2023-07-06-102726.png"
+        },
+        {
+            "id":"6",
+            "name":"E-commerce",
+            "desc":"Netlify:https://gilded-stardust-0641f1.netlify.app Github Repo:https://github.com/wildunicorn123/EOMP.git ",
+            "image_url":"https://i.postimg.cc/653HFCDZ/Screenshot-2023-07-06-103131.png"
+        }
+    ],
+    "testimonials": [
         {
             "id":"1",
             "image_url":"https://i.postimg.cc/SKwjCSyT/C12-Ayesha-Galant-Class1-3.jpg",
