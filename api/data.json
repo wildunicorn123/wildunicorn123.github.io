@@ -42,38 +42,44 @@
         {
             "id":"1",
             "name":"Group html ex.(the About)",
-            "desc":"Netlify: https://vocal-dango-f219dd.netlify.app/ Github repo: https://github.com/Li2a26/Group-Exercise.git",
-            "image_url":"https://i.postimg.cc/2y7vc9xW/Screenshot-2023-07-06-101320.png"
+            "desc":"https://vocal-dango-f219dd.netlify.app/ ",
+            "image_url":"https://i.postimg.cc/2y7vc9xW/Screenshot-2023-07-06-101320.png",
+            "text":" https://github.com/Li2a26/Group-Exercise.git"
         },
         {
             "id":"2",
             "name":"First Portfolio",
-            "desc":"Netlify: https://comfy-sunburst-089d86.netlify.app/  Github repo:https://github.com/wildunicorn123/StudentProfile.git",
-            "image_url":"https://i.postimg.cc/8Prgv8ts/Screenshot-2023-07-06-101600.png"
+            "desc":"https://comfy-sunburst-089d86.netlify.app/ ",
+            "image_url":"https://i.postimg.cc/8Prgv8ts/Screenshot-2023-07-06-101600.png",
+            "text":"https://github.com/wildunicorn123/StudentProfile.git"
         },
         {
             "id":"3",
             "name":"Calculator",
-            "desc":"Netlify: https://nimble-dasik-0d67f9.netlify.app/ Github repo:https://github.com/wildunicorn123/incomplete1.git",
-            "image_url":"https://i.postimg.cc/XN1yJ5z4/Screenshot-2023-07-06-102039.png"
+            "desc":" https://nimble-dasik-0d67f9.netlify.app/ ",
+            "image_url":"https://i.postimg.cc/XN1yJ5z4/Screenshot-2023-07-06-102039.png",
+            "text":"https://github.com/wildunicorn123/incomplete1.git"
         },
         {
             "id":"4",
             "name":"Fake netflix",
-            "desc":"Netlify:https://animated-parfait-324aad.netlify.app Github repo: https://github.com/wildunicorn123/netflikie.git",
-            "image_url":"https://i.postimg.cc/SRcPR4fM/Screenshot-2023-07-06-094804.png"
+            "desc":"https://animated-parfait-324aad.netlify.app ",
+            "image_url":"https://i.postimg.cc/SRcPR4fM/Screenshot-2023-07-06-094804.png",
+            "text":"https://github.com/wildunicorn123/netflikie.git"
         },
         {
             "id":"5",
             "name":"Temperature converter",
-            "desc":"Netlify:https://eloquent-biscotti-4747f5.netlify.app   Github repo:https://github.com/wildunicorn123/tempUnicorn.git",
-            "image_url":"https://i.postimg.cc/52mMpBvC/Screenshot-2023-07-06-102726.png"
+            "desc":"https://eloquent-biscotti-4747f5.netlify.app ",
+            "image_url":"https://i.postimg.cc/52mMpBvC/Screenshot-2023-07-06-102726.png",
+            "text":"https://github.com/wildunicorn123/tempUnicorn.git"
         },
         {
             "id":"6",
             "name":"E-commerce",
-            "desc":"Netlify:https://gilded-stardust-0641f1.netlify.app Github Repo:https://github.com/wildunicorn123/EOMP.git ",
-            "image_url":"https://i.postimg.cc/653HFCDZ/Screenshot-2023-07-06-103131.png"
+            "desc":"https://gilded-stardust-0641f1.netlify.app ",
+            "image_url":"https://i.postimg.cc/653HFCDZ/Screenshot-2023-07-06-103131.png",
+            "text":"https://github.com/wildunicorn123/EOMP.git"
         }
     ],
     "testimonials": [
